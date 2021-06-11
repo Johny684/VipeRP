@@ -1,0 +1,1 @@
+[null,{"name":"WelcomeMessage","temp":"member","event-type":"6","actions":[{"channel":"4","varName":"","message":"Witaj ${tempVars(\"member\")}!","storage":"0","varName2":"","name":"Send Message"}],"_id":"qfbVw"},{"name":"NewEvent","temp":"","event-type":"0","_id":"KqsQT","actions":[]}]
